@@ -1,8 +1,8 @@
 COMPANY : CODTECH IT SOLUTIONS 
 
-NAME : MUNAKALA MANIKANTHA
+NAME : Malireddi Vasantha Venkata Rama Satya Sree
 
-*INTERN ID * : CT12GND
+*INTERN ID * : CT12GOD
 
 *DOMAIN * : SQL 
 
